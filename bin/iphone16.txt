@@ -1,0 +1,4 @@
+battery
+3550mAh
+chipset
+A18

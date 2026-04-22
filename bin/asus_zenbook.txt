@@ -1,0 +1,4 @@
+cpu
+intel_i7
+gpu
+rtx4070

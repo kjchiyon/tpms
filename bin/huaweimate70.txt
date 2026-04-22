@@ -1,0 +1,4 @@
+ram
+16GB
+screen_size
+6.7inch
