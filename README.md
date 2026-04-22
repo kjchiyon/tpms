@@ -10,6 +10,6 @@ Kang Xuan Xin
 
 A very very small and simple program that manages product information of a tech company.
 
-Demonstrates data handling and file IO.
+First academic coding project. Demonstrates data handling and file IO.
 
-First academic coding project.
+Find documentation and manual inside "1H_G9.pdf"
